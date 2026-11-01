@@ -1,0 +1,6 @@
+# Resultados generados por Maven y Serenity
+target/
+
+# Registros locales de ejecución
+salida.txt
+*.log
